@@ -1,0 +1,65 @@
+# Joan Jett & the Blackhearts – I Love Rock 'N Roll
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.31] I saw him dancin' there by the record machine
+[00:20.50] I knew he must've been about 17
+[00:25.51] The beat was goin' strong
+[00:28.12] Playin' my favorite song
+[00:40.12] 
+[00:31.40] And I could tell it wouldn't be long
+[00:33.83] 'Til he was with me, yeah, me
+[00:36.65] And I could tell it wouldn't be long
+[00:39.00] 'Til he was with me, yeah, me, singin'
+[00:58.00] 
+[00:42.32] "I love rock 'n roll
+[00:44.52] So put another dime in the jukebox, baby
+[00:47.25] I love rock 'n roll
+[00:49.62] So come and take your time and dance with me"
+[00:53.56] Ow!
+[00:55.06] 
+[00:56.50] He smiled, so I got up and asked for his name
+[01:01.70] "That don't matter", he said, "'Cause it's all the same"
+[01:06.55] Said, "Can I take you home where we can be alone?"
+[01:31.55] 
+[01:13.18] And next, we were movin' on, he was with me, yeah, me
+[01:18.39] Next, we were movin' on, he was with me, yeah, me, singin'
+[01:47.39] 
+[01:23.56] "I love rock 'n roll
+[01:26.04] So put another dime in the jukebox, baby
+[01:28.64] I love rock 'n roll
+[01:31.05] So come and take your time and dance with me"
+[01:34.85] Ow!
+[01:36.35] 
+[01:48.18] Said, "Can I take you home where we can be alone?
+[02:12.68] 
+[01:54.64] Next, we were movin' on, he was with me, yeah, me
+[01:59.42] And we'll be movin' on and singin' that same old song
+[02:03.07] Yeah, with me, singin'
+[02:14.07] 
+[02:05.02] "I love rock 'n roll
+[02:07.42] So put another dime in the jukebox, baby
+[02:10.04] I love rock 'n roll
+[02:12.66] So come and take your time and dance with me"
+[02:35.16] 
+[02:15.28] I love rock 'n roll
+[02:17.69] So put another dime in the jukebox, baby
+[02:20.28] I love rock 'n roll
+[02:22.63] So come and take your time and dance with-
+[02:43.63] 
+[02:24.72] I love rock 'n roll
+[02:26.99] So put another dime in the jukebox, baby
+[02:29.69] I love rock 'n roll
+[02:32.01] So come and take your time and dance with-
+[02:53.01] 
+[02:33.90] I love rock 'n roll
+[02:36.37] So put another dime in the jukebox, baby
+[02:38.83] I love rock 'n roll
+[02:41.26] So come and take your time and dance with-
+[03:02.26] 
+[02:43.22] I love rock 'n roll
+[02:45.65] So put another dime in the jukebox, baby
+[02:48.25] I love rock 'n roll
+[02:50.58] So come and take your time and dance with me
+```
