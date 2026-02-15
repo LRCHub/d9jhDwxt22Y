@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "I Love Rock 'N Roll",
+  "base_artist": "Joan Jett & the Blackhearts",
+  "createdAt": "2026-02-15T12:40:32.417296Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Love Rock 'n' Roll",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/01_I_Love_Rock_'n'_Roll_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Love Rock 'N' Roll",
+      "artist": "Spears, Britney",
+      "has_synced": true,
+      "path": "select/02_I_Love_Rock_'N'_Roll_Spears,_Britney.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Love Rock 'n' Roll",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/03_I_Love_Rock_'n'_Roll_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Love Rock 'N Roll",
+      "artist": "Joan Jett",
+      "has_synced": true,
+      "path": "select/04_I_Love_Rock_'N_Roll_Joan_Jett.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Love Rock ’n’ Roll",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/05_I_Love_Rock_’n’_Roll_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Love Rock 'N Roll",
+      "artist": "Joan Jett",
+      "has_synced": true,
+      "path": "select/06_I_Love_Rock_'N_Roll_Joan_Jett.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Love Rock N' Roll",
+      "artist": "Liliac",
+      "has_synced": false,
+      "path": "select/07_I_Love_Rock_N'_Roll_Liliac.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Love Rock N Roll",
+      "artist": "Joan Jett",
+      "has_synced": true,
+      "path": "select/08_I_Love_Rock_N_Roll_Joan_Jett.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Love Rock 'N Roll",
+      "artist": "Lancaster, Jamie",
+      "has_synced": false,
+      "path": "select/09_I_Love_Rock_'N_Roll_Lancaster,_Jamie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "i love rock n roll",
+      "artist": "joan jett",
+      "has_synced": true,
+      "path": "select/10_i_love_rock_n_roll_joan_jett.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Love Rock ’n’ Roll",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/11_I_Love_Rock_’n’_Roll_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love Rock 'N' Roll",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/12_I_Love_Rock_'N'_Roll_VA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Love Rock N Roll",
+      "artist": "Arrows",
+      "has_synced": false,
+      "path": "select/13_I_Love_Rock_N_Roll_Arrows.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Love Rock N Roll",
+      "artist": "Alan Merrill",
+      "has_synced": true,
+      "path": "select/14_I_Love_Rock_N_Roll_Alan_Merrill.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Love Rock 'n' Roll (+)",
+      "artist": "Arrows",
+      "has_synced": false,
+      "path": "select/15_I_Love_Rock_'n'_Roll_(+)_Arrows.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love Rock 'N' Roll",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/16_I_Love_Rock_'N'_Roll_Various.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Love Rock 'n' Roll",
+      "artist": "Arrows",
+      "has_synced": false,
+      "path": "select/17_I_Love_Rock_'n'_Roll_Arrows.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Love Rock 'n' Roll",
+      "artist": "SoundSense",
+      "has_synced": false,
+      "path": "select/18_I_Love_Rock_'n'_Roll_SoundSense.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I love Rock 'n' Roll",
+      "artist": "Joan Jett",
+      "has_synced": true,
+      "path": "select/19_I_love_Rock_'n'_Roll_Joan_Jett.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Love Rock 'N Roll",
+      "artist": "Joan Jett & The Blackhearts",
+      "has_synced": false,
+      "path": "select/pl_01_I_Love_Rock_'N_Roll_Joan_Jett_&_The_Blackhearts.txt"
+    }
+  ]
+}
